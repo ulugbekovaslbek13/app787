@@ -1,0 +1,7 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background-color: #0b0f19; color: #f3f4f6; }
+#dashboard-wrapper { display: flex; min-height: 100vh; }
+.sidebar { width: 260px; background-color: #111827; padding: 25px; }
+.sidebar .logo { font-size: 22px; color: #3b82f6; }
+.main-content { flex: 1; padding: 35px; }
+.card { background: #1e293b; padding: 25px; border-radius: 12px; }
